@@ -25,7 +25,7 @@ This project is a **University Students’ Records Management System** developed
 - **Development Environment:** Microsoft Visual Studio (with Visual C++)
 - **Database:** Microsoft SQL Server
 
-##Setup
+## Setup
 1. Open the project in **Microsoft Visual Studio**.
 2. Set up the database in **SQL Server** and update the connection string in the project.
 3. Build and run the application.
